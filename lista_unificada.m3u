@@ -13303,72 +13303,8 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Música",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes",Pluto TV Deportes
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5dcde07af1c85b0009b18651&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes",Azteca Deportes Premium
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=65cf60d166eec80008724e6f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes",Claro Sports Mexico
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=6320d2755e54db000783fd87&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes",ITV Deportes
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=63f7e3f9dff38e00082a57af&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Deportes",Pluto TV Peleas
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5e98b0447665f200078caded&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Deportes",Lucha Libre AAA
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5f99a772c54853000797bf18&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="64df7a9a44fe100009b6ac5a" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-title="Deportes",DAZN Combat
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=64df7a9a44fe100009b6ac5a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="Deportes",PFL MMA
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=64f6163a30ab3300083d870e&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="Deportes",DAZN Women's Football
 http://tecnotv.club/0503M/phpcode/plutotv.php?c=64b02bbd7d93410008fdae60&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158566" tvg-logo="https://btv.mx/posters/1721327339287.png" group-title="Deportes",TVC Deportes 2 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158566&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158795" tvg-logo="https://btv.mx/posters/1720897858236.png" group-title="Deportes",Andrenalina Network HD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158795&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158797" tvg-logo="https://btv.mx/posters/1720897925338.png" group-title="Deportes",AyM Sports FHD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158797&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158799" tvg-logo="https://btv.mx/posters/1720923275144.png" group-title="Deportes",Bally Sports West (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158799&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158800" tvg-logo="https://btv.mx/posters/1720922560320.png" group-title="Deportes",Bally Sports Sun (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158800&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158801" tvg-logo="https://btv.mx/posters/1720920856545.png" group-title="Deportes",Bally Sports South (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158801&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158802" tvg-logo="https://btv.mx/posters/1720921414319.png" group-title="Deportes",Bally Sports Southwest (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158802&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158803" tvg-logo="https://btv.mx/posters/1720921118561.png" group-title="Deportes",Bally Sports Southeast (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158803&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158804" tvg-logo="https://btv.mx/posters/1720920589489.png" group-title="Deportes",Bally Sports San Diego (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158804&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158805" tvg-logo="https://btv.mx/posters/1720919638573.png" group-title="Deportes",Bally Sports Ohio (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158805&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158806" tvg-logo="https://btv.mx/posters/1720908468322.png" group-title="Deportes",Bally Sports North (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158806&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158807" tvg-logo="https://btv.mx/posters/1720900604383.png" group-title="Deportes",Bally Sports Midwest (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158807&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158808" tvg-logo="https://btv.mx/posters/1720899199298.png" group-title="Deportes",Bally Sports Florida (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158808&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158809" tvg-logo="https://btv.mx/posters/1720898551511.png" group-title="Deportes",Bally Sports Detroit (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158809&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158810" tvg-logo="https://btv.mx/posters/1720898532454.png" group-title="Deportes",Bally Sports Arizona (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158810&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158811" tvg-logo="https://btv.mx/posters/1720900366443.png" group-title="Deportes",Bally Sports Kansas City (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158811&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158812" tvg-logo="https://btv.mx/posters/1720899484466.png" group-title="Deportes",Bally Sports Indiana (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158812&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158813" tvg-logo="https://btv.mx/posters/1720920695464.png" group-title="Deportes",Bally Sports SoCal (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158813&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158814" tvg-logo="https://btv.mx/posters/1720899395444.png" group-title="Deportes",Bally Sports Great Lakes (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158814&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158815" tvg-logo="https://btv.mx/posters/1720919659203.png" group-title="Deportes",Bally Sports Oklahoma (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158815&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158816" tvg-logo="https://btv.mx/posters/1720900763250.png" group-title="Deportes",Bally Sports New Orleans (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158816&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158817" tvg-logo="https://btv.mx/posters/1721324385364.png" group-title="Deportes",BeinS Español HD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158817&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158818" tvg-logo="https://btv.mx/posters/1721324601404.png" group-title="Deportes",BeIN Sports US (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158818&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158820" tvg-logo="https://btv.mx/posters/1721324798206.png" group-title="Deportes",Caza y Pesca FHD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158820&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="158823" tvg-logo="https://btv.mx/posters/1721325173342.png" group-title="Deportes",DA-N 2 HD (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=158823&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="158825" tvg-logo="https://btv.mx/posters/1721325414515.png" group-title="Deportes",DA-N La Liga HD (i)
@@ -13399,52 +13335,22 @@ http://tecnotv.club/0503M/phpcode/lista01.php?c=158836&token=tecnotokenplustv230
 http://tecnotv.club/0503M/phpcode/lista01.php?c=158837&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="158838" tvg-logo="https://btv.mx/posters/1721326220134.png" group-title="Deportes",FOXS Deportes HD (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=158838&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158839" tvg-logo="https://btv.mx/posters/1721326794447.png" group-title="Deportes",GOLF Channel (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158839&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158840" tvg-logo="https://btv.mx/posters/1721326880191.png" group-title="Deportes",MLB Network (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158840&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158841" tvg-logo="https://btv.mx/posters/1721326917443.png" group-title="Deportes",NFL Network (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158841&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="158843" tvg-logo="https://btv.mx/posters/1721326901137.png" group-title="Deportes",NBA TV (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=158843&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158844" tvg-logo="https://btv.mx/posters/1721326943312.png" group-title="Deportes",NHL Network HD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158844&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="158845" tvg-logo="https://btv.mx/posters/1721326982486.png" group-title="Deportes",Tennis Channel (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=158845&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158848" tvg-logo="https://btv.mx/posters/1721327188314.png" group-title="Deportes",TUDN MEX HD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158848&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158850" tvg-logo="https://btv.mx/posters/1721327382276.png" group-title="Deportes",TVC Deportes (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158850&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158851" tvg-logo="https://btv.mx/posters/1721327404236.png" group-title="Deportes",TVG Network (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158851&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158852" tvg-logo="https://btv.mx/posters/1721327416288.png" group-title="Deportes",TVG 2 Network HD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158852&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="158853" tvg-logo="https://btv.mx/posters/1721327495130.png" group-title="Deportes",UFC Network HD (US)(i) op2
-http://tecnotv.club/0503M/phpcode/lista01.php?c=158853&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="159320" tvg-logo="https://btv.mx/posters/1727814270379.png" group-title="Deportes",ES-PN 2 MX SD (MX)(p)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=159320&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="160094" group-title="Deportes",FOXS Prem FHD (MX)(i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=160094&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="163452" tvg-logo="https://btv.mx/posters/1727310393286.png" group-title="Deportes",SKY Golf (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=163452&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="165517" group-title="Deportes",DA-N  1 (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=165517&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="167183" tvg-logo="https://btv.mx/posters/1721325001175.png" group-title="Deportes",C.laro Sports (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=167183&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="167627" tvg-logo="https://btv.mx/posters/1727310301243.png" group-title="Deportes",MOV GOLF (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=167627&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="167874" tvg-logo="https://btv.mx/posters/1721325363296.png" group-title="Deportes",DA-N F1 HD (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=167874&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="180912" tvg-logo="https://btv.mx/posters/1721326204524.png" group-title="Deportes",FOXS Deportes SD (p)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=180912&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="180913" tvg-logo="https://btv.mx/posters/1721326204524.png" group-title="Deportes",FOXS Deportes HD (p)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=180913&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="180968" tvg-logo="https://btv.mx/posters/1721932494279.png" group-title="Deportes",TUDNusa LQ (US)(p)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=180968&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="180969" tvg-logo="https://btv.mx/posters/1721932494279.png" group-title="Deportes",TUDNusa SD (US)(p)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=180969&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="180970" tvg-logo="https://btv.mx/posters/1721932494279.png" group-title="Deportes",TUDNusa HD (US)(p)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=180970&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="277642" tvg-logo="https://btv.mx/posters/1727815489188.png" group-title="Deportes",ES-PN 2 HD (MX)(p)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=277642&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278265" tvg-logo="https://btv.mx/posters/1722027986159.png" group-title="Deportes",FOXS 3 MX HD (i) op2
@@ -13453,54 +13359,12 @@ http://tecnotv.club/0503M/phpcode/lista01.php?c=278265&token=tecnotokenplustv230
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278266&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278267" tvg-logo="https://btv.mx/posters/1722027986159.png" group-title="Deportes",FOX Sports 3 HD (CO) (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278267&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278554" tvg-logo="https://btv.mx/posters/1724881601575.png" group-title="Deportes",Claro Sports (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278554&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278555" tvg-logo="https://btv.mx/posters/1724886244151.jpg" group-title="Deportes",Latin American Sports (LAS) (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278555&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278556" tvg-logo="https://btv.mx/posters/1724881213483.png" group-title="Deportes",Claro Sports HD (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278556&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278557" tvg-logo="https://btv.mx/posters/1724881322563.png" group-title="Deportes",Claro Sports LQ (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278557&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278558" tvg-logo="https://btv.mx/posters/1724882903266.png" group-title="Deportes",ESPN 5 (MX)(P)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278558&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278559" tvg-logo="https://btv.mx/posters/1724886476535.png" group-title="Deportes",TUDN HD (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278559&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278560" tvg-logo="https://btv.mx/posters/1724886491294.png" group-title="Deportes",TUDN LQ (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278560&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278561" tvg-logo="https://btv.mx/posters/1724886513587.png" group-title="Deportes",TUDN (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278561&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278562" tvg-logo="https://btv.mx/posters/1724853722511.png" group-title="Deportes",AYM SPORTS LQ (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278562&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278563" tvg-logo="https://btv.mx/posters/1724886609300.png" group-title="Deportes",TVC DEPORTES (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278563&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278564" tvg-logo="https://btv.mx/posters/1724886562374.png" group-title="Deportes",TVC DEPORTES HD (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278564&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278565" tvg-logo="https://btv.mx/posters/1724886590487.png" group-title="Deportes",TVC DEPORTES LQ (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278565&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278566" tvg-logo="https://btv.mx/posters/1724882926146.png" group-title="Deportes",ESPN 6 (MX)(P)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278566&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278567" tvg-logo="https://btv.mx/posters/1724882947467.png" group-title="Deportes",ESPN 7 (MX)(P)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278567&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278568" tvg-logo="https://btv.mx/posters/1724884775360.png" group-title="Deportes",GOLF CHANNEL (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278568&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278569" tvg-logo="https://btv.mx/posters/1724886437320.png" group-title="Deportes",Red Bull TV (MX)(i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278569&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278570" tvg-logo="https://btv.mx/posters/1724886667380.png" group-title="Deportes",Zona TUDN MX (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278570&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278571" tvg-logo="https://btv.mx/posters/1724886685422.png" group-title="Deportes",Zona TUDN USA (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278571&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278572" tvg-logo="https://btv.mx/posters/1724853682455.png" group-title="Deportes",Adrenalina Sports Network (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278572&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278573" tvg-logo="https://btv.mx/posters/1724853663589.png" group-title="Deportes",Adrenalina Sports Network HD (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278573&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278574" tvg-logo="https://btv.mx/posters/1724853745391.png" group-title="Deportes",AYM SPORTS (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278574&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278575" tvg-logo="https://btv.mx/posters/1724853703343.png" group-title="Deportes",AYM SPORTS HD (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278575&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278576" tvg-logo="https://btv.mx/posters/1724853920525.png" group-title="Deportes",Azteca Deportes (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278576&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="278577" tvg-logo="https://btv.mx/posters/1724853900489.png" group-title="Deportes",Azteca Deportes HD (MX)(P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=278577&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278578" tvg-logo="https://btv.mx/posters/1724884202565.png" group-title="Deportes",ESPN (MX)(P)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278578&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278579" tvg-logo="https://btv.mx/posters/1724882769266.png" group-title="Deportes",ESPN 3 (MX)(P)
@@ -13545,10 +13409,6 @@ http://tecnotv.club/0503M/phpcode/lista01.php?c=278597&token=tecnotokenplustv230
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278598&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="278599" tvg-logo="https://btv.mx/posters/1724884740143.png" group-title="Deportes",FOX SPORTS PREMIUM LQ (MX)(P)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=278599&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="279420" tvg-logo="https://btv.mx/posters/1727313151557.png" group-title="Deportes",Bein Sports Ñ op2 (p)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=279420&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="279422" tvg-logo="https://btv.mx/posters/1727311735530.png" group-title="Deportes",Bein Sports Ñ (p)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=279422&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="281171" group-title="Deportes",SKY La LIga (p)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=281171&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="281172" group-title="Deportes",SKY Bundesliga (p)
@@ -13557,78 +13417,18 @@ http://tecnotv.club/0503M/phpcode/lista01.php?c=281172&token=tecnotokenplustv230
 http://tecnotv.club/0503M/phpcode/lista01.php?c=281187&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="281188" tvg-logo="https://btv.mx/posters/1729734197344.png" group-title="Deportes",SKY Bundesliga (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=281188&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="282060" group-title="Deportes",RedBull Tv (p)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=282060&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="282559" group-title="Deportes",ES-PN 2 HD (i) op2
 http://tecnotv.club/0503M/phpcode/lista01.php?c=282559&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="283711" group-title="Deportes",CBS Sports (P)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=283711&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="285432" tvg-logo="https://btv.mx/posters/1721327442270.png" group-title="Deportes",TYC Sports (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=285432&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="285433" group-title="Deportes",TYC Sports (i) op2
 http://tecnotv.club/0503M/phpcode/lista01.php?c=285433&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286080" tvg-logo="https://btv.mx/posters/1729569256424.png" group-title="Deportes",VIX| ZONA TUDN (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286080&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286081" tvg-logo="https://btv.mx/posters/1729574746269.png" group-title="Deportes",TUDN VIX (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286081&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286083" tvg-logo="https://btv.mx/posters/1729574789234.png" group-title="Deportes",TUDN XTRA 02 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286083&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286084" tvg-logo="https://btv.mx/posters/1729574803572.png" group-title="Deportes",TUDN XTRA 03 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286084&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286085" tvg-logo="https://btv.mx/posters/1729574932413.png" group-title="Deportes",TUDN XTRA 04 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286085&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286086" tvg-logo="https://btv.mx/posters/1729574946316.png" group-title="Deportes",TUDN XTRA 05 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286086&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286087" tvg-logo="https://btv.mx/posters/1729575027304.png" group-title="Deportes",TUDN XTRA 06 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286087&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286088" tvg-logo="https://btv.mx/posters/1729575147366.png" group-title="Deportes",TUDN XTRA 07 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286088&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286089" tvg-logo="https://btv.mx/posters/1729575161141.png" group-title="Deportes",TUDN XTRA 08 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286089&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286090" tvg-logo="https://btv.mx/posters/1729575174152.png" group-title="Deportes",TUDN XTRA 09 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286090&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286091" tvg-logo="https://btv.mx/posters/1729575201510.png" group-title="Deportes",TUDN XTRA 10 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286091&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286092" tvg-logo="https://btv.mx/posters/1729575224323.png" group-title="Deportes",TUDN XTRA 11 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286092&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286220" tvg-logo="https://btv.mx/posters/1729733995137.png" group-title="Deportes",Sky Sports 24 Italia (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286220&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="286221" tvg-logo="https://btv.mx/posters/1729734064486.png" group-title="Deportes",SKY Sports F1 HD (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=286221&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286222" tvg-logo="https://btv.mx/posters/1729734109484.png" group-title="Deportes",SKY Sports Arena HD (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286222&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="286223" tvg-logo="https://btv.mx/posters/1729734086279.png" group-title="Deportes",SKY Sports F1 HD (i) op2
 http://tecnotv.club/0503M/phpcode/lista01.php?c=286223&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286224" tvg-logo="https://btv.mx/posters/1729734163172.png" group-title="Deportes",SKY Sports 24 IT HD (i) op2
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286224&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286225" tvg-logo="https://btv.mx/posters/1729734236486.png" group-title="Deportes",SKY Sports 24 IT HD (i) op3
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286225&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="286226" tvg-logo="https://btv.mx/posters/1729734267417.png" group-title="Deportes",Sky Sport Calcio (i)
 http://tecnotv.club/0503M/phpcode/lista01.php?c=286226&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286227" tvg-logo="https://btv.mx/posters/1729734295405.png" group-title="Deportes",Sky Sport News (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286227&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286228" tvg-logo="https://btv.mx/posters/1729734339145.png" group-title="Deportes",Sky Sport Football (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286228&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="286229" tvg-logo="https://btv.mx/posters/1729734381230.png" group-title="Deportes",Sky Sport Mix (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=286229&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="296572" tvg-logo="https://btv.mx/posters/1734034678529.png" group-title="Deportes",ITV Deportes I
-http://tecnotv.club/0503M/phpcode/lista01.php?c=296572&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="296573" tvg-logo="https://btv.mx/posters/1734038264175.png" group-title="Deportes",Combate TV I
-http://tecnotv.club/0503M/phpcode/lista01.php?c=296573&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="296577" tvg-logo="https://btv.mx/posters/1734039919371.png" group-title="Deportes",World Fishing Network HD i
-http://tecnotv.club/0503M/phpcode/lista01.php?c=296577&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="298920" tvg-logo="https://btv.mx/posters/1729574770449.png" group-title="Deportes",TUDN XTRA 1 (i)
-http://tecnotv.club/0503M/phpcode/lista01.php?c=298920&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="299489" tvg-logo="https://www.supermotocross.com/wp-content/uploads/2023/01/SMX-League-Logo.png" group-title="Deportes",SuperMotocross HD i
-http://tecnotv.club/0503M/phpcode/lista01.php?c=299489&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="301626" group-title="Deportes",PBR Ride I
-http://tecnotv.club/0503M/phpcode/lista01.php?c=301626&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="301706" group-title="Deportes",PBR Ride I op2
-http://tecnotv.club/0503M/phpcode/lista01.php?c=301706&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/358.png" group-title="Deportes",Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bHhRRom.png" group-title="Deportes",AYM
-http://tecnotv.club/0503M/phpcode/runtime.php?c=5106
 #EXTINF:-1 tvg-logo="https://imgur.com/Rs7QrjW.png" group-title="Deportes",TNT SPORT
 http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/woLFqJv.png" group-title="Deportes",TYC SPORT
@@ -13647,28 +13447,6 @@ http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch9&token=tecnotokenplustv230516F
 http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch29&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YmIY1SF.png" group-title="Deportes",FOX SPORT 3
 http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nR6Fcm2.png" group-title="Deportes",DeporTV (Argentina)
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Deportes",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes",Teletrak TV
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes",Ovacion TV
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CampusLore.us" tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="Deportes",CampusLore
-https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Deportes",Swerve Sports
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Deportes",Unbeaten
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="W14DKD5.us" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Deportes",W14DK-D5
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Deportes",World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Deportes",San Marino RTV Sport (720p)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Deportes",Türkmenistan Sport (406p) [Not 24/7]
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes",ARG Espn + (1080)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1543
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes",ARG Espn + (720)
@@ -13713,14 +13491,6 @@ http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1528
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1529
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="Deportes",ARG TyC Sports (720)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=2076
-#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="Deportes",Bein Sport U (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=2876
-#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="Deportes",beIN Sports U (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=59426
-#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="Deportes",Bein Sports Ñ (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=2872
-#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="Deportes",Bein Sports Ñ (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=59788
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="Deportes",Directv Sports + (720)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=963
 #EXTINF:-1 tvg-id="DirectvSportsPlus.co" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="Deportes",Directv Sports +
@@ -13755,10 +13525,6 @@ http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=63682
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1544
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="Deportes",Fox Deportes
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1524
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="Deportes",Golf Latin America
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=26767
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9q6PqMJgbL8/XyJA1AIVgoI/AAAAAAAAAkA/2JqmEauHFoo_eEoK3db9gq3dTaC-cKihACLcBGAsYHQ/w200-h200/affi.png" group-title="Deportes",MEX Afizzionados (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=54813
 #EXTINF:-1 tvg-id="ESPNplus.mx" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes",MEX Espn + (1080)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=26810
 #EXTINF:-1 tvg-id="ESPNplus.mx" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes",MEX Espn +
@@ -13795,196 +13561,26 @@ http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1518
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=26812
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes",MEX Fox Sports 3
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1523
-#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="Deportes",MEX Golf Latin (1080)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=26813
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="Deportes",NBA U (720)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=2873
-#EXTINF:-1 tvg-id="SkySports16.mx" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="Deportes",Sky Sports 16 (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=60372
-#EXTINF:-1 tvg-id="SkySports24.mx" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="Deportes",Sky Sports 21 (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=60373
-#EXTINF:-1 tvg-id="SkySports16.mx" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="Deportes",Sky Sports PL (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=59427
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="Deportes",Tennis Channel
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=23132
-#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png" group-title="Deportes",TVC Deportes
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1547
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="Deportes",TyC Sports Int (720)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=27530
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="Deportes",UFC (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=8918
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="Deportes",UFC Fight PASS (720)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=5699
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p) [Geo-blocked]
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Deportes",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Deportes",A Spor
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Deportes",ACCDN (1080p)
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.ba@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Deportes",Arena Sport 1 (720p)
-http://91.132.74.5:8000/play/a00k
-#EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="Deportes",Awapa Sports TV (1080p) [Not 24/7]
-https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Deportes",Billiard TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
-#EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Deportes",Canal do Inter (720p) [Not 24/7]
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.cz" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-2-lu-cz-sk.png" group-title="Deportes",Canal+ Sport 2 (1080i)
-http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Deportes",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Deportes",CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Deportes",CBS Sports Network USA
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ColimdoTV.do" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="Deportes",ColimdoT TV (720p)
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/512px-%C4%8CT_sport_logo.png" group-title="Deportes",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Deportes",DAZN Combat (1080p)
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Deportes",Eleven Sports 1 (2160p)
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
-#EXTINF:-1 tvg-id="ERTSports1.gr" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="Deportes",ERT Sports 1 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="Deportes",ERT Sports 2 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Deportes",ESPN U (720p)
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" group-title="Deportes",FanDuel Sports Network
-https://fl3.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelTV.us" tvg-logo="https://i.imgur.com/1xD0AMC.png" group-title="Deportes",FanDuel TV
-https://fl3.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Deportes",FB TV
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FITE247.us" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Deportes",FITE 24/7 (1080p)
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-id="Football.ru@SD" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Deportes",Football
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Deportes",Fox Sports 2 (720p)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Deportes",FUEL TV (1080p)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Deportes",Golf Channel (576i)
-http://78.130.250.2:8023/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Deportes",HTSpor TV (1080p)
-http://185.234.111.229:8000/play/a016
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Deportes",Insight TV (720p)
-https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Deportes",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-id="KCMNLD6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png" group-title="Deportes",KCMN-LD6 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Deportes",KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr@Live1" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Deportes",L'Equipe Live1
-https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr@Live2" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Deportes",L'Equipe Live2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Deportes",M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="Deportes",Match! Arena
-http://194.143.148.28:8080/MatchArena/index.m3u8
-#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="Deportes",MAV Select USA
-https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Deportes",MLB
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Deportes",MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Deportes",Monterrico TV (1080p) [Not 24/7]
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Deportes",MSG
-https://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Deportes",NFL Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="Deportes",NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="Deportes",NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Deportes",NHL
-https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ONFootball.vn@SD" tvg-logo="https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png" group-title="Deportes",ON Football
 http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
-#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="Deportes",PBR RidePass
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
-#EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Deportes",PGA Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
-#EXTINF:-1 tvg-id="PokerNightInAmerica.us" tvg-logo="https://i.imgur.com/VTrKSxt.png" group-title="Deportes",Poker Night in America (1080p)
-https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8
-#EXTINF:-1 tvg-id="PokerGo.us" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Deportes",PokerGo
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
-#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="Deportes",Racing America (720p)
-https://livetv-fa.tubi.video/racing-america/playlist.m3u8
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Deportes",Racing.com (720p)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Deportes",RTA Sport (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes",SportsGrid (1080p)
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="Deportes",Sportsman Channel
-https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Deportes",SportsNet New York (540p)
-https://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="Deportes",TDM Sports Ch. 93 (720p)
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es@HEVC" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Deportes",Teledeporte HEVC
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Deportes",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Deportes",TR Sport (480p)
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Deportes",Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Deportes",TRT Spor (1080p)
-http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Deportes",TSN1 (1080p)
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Deportes",TSN2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Deportes",TSN3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Deportes",TSN5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Deportes",TSN The Ocho
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png" group-title="Deportes",Türkmenistan Sport (406p) [Not 24/7]
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Deportes",TVRI Sport (720p)
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Deportes",World of Freesports (1080p)
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Austria" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Deportes",World Poker Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Canada" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Deportes",World Poker Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4b755e8e770007387b79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e97-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14cdb377-9292-4d37-85af-4d89aff56e90
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Deportes",World Poker Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Poland" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Deportes",World Poker Tour (1080p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
-#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Deportes",Астрахань.Ru Sport (720p)
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="Deportes",Pluto TV  Competencias
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5dd6d935d000120009bc1132&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="Deportes",Iron Chef
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=615b9855c6b58b000724477f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="Deportes",MasterChef
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5e3ddbd27091820009f86dd9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="64bed7005dc16600089b84e9" tvg-logo="https://images.pluto.tv/channels/64bed7005dc16600089b84e9/colorLogoPNG.png" group-title="Deportes",MasterChef Junior
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=64bed7005dc16600089b84e9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Deportes",Hells Kitchen
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=6095ad97351eb0000754c1e6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Deportes",Minuto Para Ganar
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5e46e64dc73db400094b5f0b&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="6099600015e88c0007ecda25" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="Deportes",Boom
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=6099600015e88c0007ecda25&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Deportes",Wipe Out
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=5ed6828192e8b3000743ef61&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="6495af324c014a000842e923" tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" group-title="Deportes",Desafío Super Humanos
-http://tecnotv.club/0503M/phpcode/plutotv.php?c=6495af324c014a000842e923&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1.bp.blogspot.com/-UnYo1Cn8CzA/XwIjHgjyHBI/AAAAAAAAAOc/yCIoEBtq0jACiKBDDWKxGLIjiOFqQJvHgCK4BGAsYHg/w200-h200/PPV.png" group-title="Deportes",PPV 1 (1080)
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=1823
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-logo="https://1.bp.blogspot.com/-UnYo1Cn8CzA/XwIjHgjyHBI/AAAAAAAAAOc/yCIoEBtq0jACiKBDDWKxGLIjiOFqQJvHgCK4BGAsYHg/w200-h200/PPV.png" group-title="Deportes",PPV 2 (720)
@@ -13995,10 +13591,6 @@ http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=987
 http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=988
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="Deportes",ESPNews (720p)
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UnYo1Cn8CzA/XwIjHgjyHBI/AAAAAAAAAOc/yCIoEBtq0jACiKBDDWKxGLIjiOFqQJvHgCK4BGAsYHg/w200-h200/PPV.png" group-title="Deportes",Info Coronavirus
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=46349
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-musvX_AET7I/X1-0Owni3MI/AAAAAAAABPA/Ph6_kp2PDg4KhA4y4iJdHzWMn8a8QmfigCLcBGAsYHQ/w200-h200/mlb.png" group-title="Deportes",NFL,MLB)",MLB GAME 1 (PPV)
-http://tvpremiumhd.club/lista-gratuita/153027/tv/live.php?id=56049
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticias",como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24 (720p)
